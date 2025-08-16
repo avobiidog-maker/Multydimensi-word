@@ -1,4 +1,4 @@
-﻿[14/8 21.28] Erick: <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="id">
 <head>
 <meta charset="UTF-8">
@@ -63,3 +63,4 @@ dims.forEach((d,idx)=>{
   img.addEventListener('mouseleave',()=>{tooltip.style.opacity=0;});
   img.addEventListener('click',()=>{tooltip.classList.toggle('expanded');});
 });
+
